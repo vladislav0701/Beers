@@ -1,0 +1,2 @@
+A service that randomly selects a new beer variant, showing all the advantages of the chosen variant.
+An example of a personal account based on data coming from the API. In the office, we see our profile and recommended beer. The data is received in JS and then displayed on the page. The interface will be used on both desktop and mobile devices.
